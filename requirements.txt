@@ -4,3 +4,4 @@ pandas
 pyswisseph
 timezonefinder
 pytz
+gunicorn
